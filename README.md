@@ -1,3 +1,3 @@
 # MyNoteX
 
-MyNoteX
+MyNoteX use electron
